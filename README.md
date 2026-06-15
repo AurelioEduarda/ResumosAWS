@@ -7,12 +7,12 @@
 > <p align="center">Meus resumos de estudo para certificações AWS. Compartilhando enquanto aprendo! 🚀</p>
 
 
-| Certificação | Status | Pasta |
-|-------------|--------|-------|
+
+
 | AWS Cloud Practitioner (CLF-C02) | 📝 Estudando | [`clf-c02/`](./clf-c02) |
 
 ---
-## 📖 Recursos que estou usando
+## Recursos que estou usando
 
 - [Treina Brasil – Curso AWS Cloud Practitioner](https://treinabrasil.com.br/cursos/aws-cloud-practitioner/)
 - [AWS Skill Builder](https://skillbuilder.aws/)
