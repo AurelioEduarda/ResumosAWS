@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Adesivo de computador Pixel por db1group.gif" width="400">
+  <img src="Adesivo de computador Pixel por db1group.gif](https://github.com/AurelioEduarda/ResumosAWS/blob/main/Pixel%20Computer%20Sticker%20by%20db1group.gif" width="400">
 </p>
 
 <h1 align="center">☁️ Resumos de Estudo AWS</h1>
