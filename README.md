@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sticker-aws.webp" width="400">
+  <img src="Adesivo de computador Pixel por db1group.gif" width="400">
 </p>
 
 <h1 align="center">☁️ Resumos de Estudo AWS</h1>
