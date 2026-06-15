@@ -9,7 +9,7 @@
 
 
 
-| AWS Cloud Practitioner (CLF-C02) | 📝 Estudando | [`clf-c02/`](./clf-c02) |
+| AWS Cloud Practitioner (CLF-C02) | 📝 Estudando |
 
 ---
 ## Recursos que estou usando
