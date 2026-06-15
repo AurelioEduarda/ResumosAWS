@@ -21,3 +21,4 @@
 ## ⚠️ Aviso
 
 Sou estudante também! Estes resumos refletem meu entendimento durante o aprendizado. Sempre consulte a [documentação oficial da AWS](https://docs.aws.amazon.com/) para informações atualizadas.
+Desconsidere erros ortograficos e de pontuação que passaram despercebidos 😊.
