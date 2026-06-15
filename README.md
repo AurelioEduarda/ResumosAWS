@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" width="400">
+  <img src="sticker-aws.webp" width="400">
 </p>
 
 <h1 align="center">☁️ Resumos de Estudo AWS</h1>
